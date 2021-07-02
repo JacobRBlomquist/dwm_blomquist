@@ -9,5 +9,10 @@
 * PCMANFM
 * ROFI
 * My DWMBlocks
+* NVIM
+* My DotFiles
+* Xclip
+* Picom
+* nitrogen
 
 
